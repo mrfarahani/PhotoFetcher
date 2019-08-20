@@ -5,7 +5,7 @@
 
 
 ## Features
-- [x] Pure Swift 5, iOS 12
+- [x] Pure Swift 5, iOS 12 (Xcode 10)
 - [x] No third-party libraries
 
 ## Design & Architecture    
